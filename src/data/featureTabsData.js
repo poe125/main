@@ -107,7 +107,7 @@ const featureTabsData = [
           { label: "IT情報ブログ設立(2024)", url: "https://doshishaitclub.wordpress.com/" },
           { label: "CruzHacksハッカソン優勝 (2024)", url: "https://devpost.com/software/tuition-shock" },
           { label: "夏インターン: Cisco (2024)" },
-          { label: "第19回ショパン国際ピアノコンクールinASIA 京都地区大会　金賞 (2017)", url: "https://www.chopin-asia.com/edition/19th/results/result_area24.pdf" },
+          { label: "第19回ショパン国際ピアノコンクールinASIA 大阪地区大会　銀賞 (2017)", url: "https://www.chopin-asia.com/edition/19th/results/result_area25.pdf" },
           { label: "Nebraska MTNA Performance and Composition Competitions Winner (2015)", url: "https://nebmta.org/student-activities/2015-16-student-winners/" },
         ],
       },
