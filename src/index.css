@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* src/index.css など */
+.card {
+  border: 1px solid #ccc;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin: 5px;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  transition: 0.2s;
+}
+
+.card:hover {
+  background-color: #f0f0f0;
+  transform: scale(1.03);
+}
