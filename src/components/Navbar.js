@@ -26,7 +26,7 @@ export default function Navbar() {
   return (
     <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
       <div className="nav-container">
-        <a href="#home" className="logo-link">ELECTRIC XTRA</a>
+        <a href="#home" className="logo-link">NISLAB</a>
         <ul className={`nav-links ${menuActive ? "active" : ""}`}>
           {["home", "features", "about"].map((id) => (
             <li key={id}>
